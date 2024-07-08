@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" fill="none">
+  <!-- Brain Icon -->
+  <circle cx="40" cy="40" r="30" fill="#4A90E2"/>
+  <path d="M30 50c0-10 10-20 10-20s10 10 10 20-10 20-10 20-10-10-10-20z" fill="#fff"/>
+  <path d="M50 50c0-10 10-20 10-20s10 10 10 20-10 20-10 20-10-10-10-20z" fill="#fff"/>
+
+  <!-- Graph Icon -->
+  <path d="M80 70l10-10 10 10 10-10 10 10" stroke="#fff" stroke-width="2" fill="none"/>
+  <path d="M70 80l10-10 10 10 10-10 10 10" stroke="#fff" stroke-width="2" fill="none"/>
+  <path d="M60 90l10-10 10 10 10-10 10 10" stroke="#fff" stroke-width="2" fill="none"/>
+  <path d="M50 100h30" stroke="#fff" stroke-width="2" fill="none"/>
+
+  <!-- Text -->
+  <text x="10" y="115" fill="#4A90E2" font-size="10" font-weight="bold">AI Investment Advisor</text>
+</svg>
